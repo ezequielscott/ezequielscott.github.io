@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Don&#39;t panic">
+
+<base href="https://you.github.io/">
+<title>
+
+
+     Use @ instead of HEAD 
+
+</title>
+<link rel="canonical" href="https://you.github.io/blog/use-at-instead-of-head/">
+
+
+<script type="text/javascript">
+    var baseURL = 'https:\/\/you.github.io\/';
+    var host = baseURL.substring(0, baseURL.length - 1).replace(/\//g, '');
+    if ((host === window.location.host) && (window.location.protocol !== 'https:')) {
+        window.location.protocol = 'https:';
+    }
+</script>
+
+
+
+
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://you.github.io/css/reset.css">
+<link rel="stylesheet" href="https://you.github.io/css/pygments.css">
+<link rel="stylesheet" href="https://you.github.io/css/main.css">
+
+
+    <link rel="stylesheet" href="https://you.github.io/css/override.css">
+
+
+
+
+
+<link rel="shortcut icon"
+
+    href="https://you.github.io/img/leaf.ico"
+
+>
+
+
+
+
+
+
+</head>
+
+
+<body lang="en">
+
+<section class="header">
+    <div class="container">
+        <div class="content">
+            
+            <a href="https://you.github.io/"><div class="name">Arthur Dent</div></a>
+            <nav>
+                <ul>
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+
+        
+            <a href="//github.com/you" target="_blank">
+                <i class="icon ion-social-github"></i>
+            </a>
+        
+
+        
+            <a href="//twitter.com/you" target="_blank">
+                <i class="icon ion-social-twitter"></i>
+            </a>
+        
+
+        
+            <a href="//linkedin.com/in/you" target="_blank">
+                <i class="icon ion-social-linkedin"></i>
+            </a>
+        
+
+        
+
+        
+
+        
+            <a href="mailto:you@example.space">
+                <i class="icon ion-ios-email larger"></i>
+            </a>
+        
+
+        
+            <a href="https://you.github.io/index.xml">
+                <i class="icon ion-social-rss larger"></i>
+            </a>
+        
+        </div>
+    </div>
+</section>
+
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    <div class="page-heading">
+
+    Use @ instead of HEAD
+
+</div>
+
+                    <div class="initials"><a href="https://you.github.io/"></a></div>
+                </div>
+                <div class="meta">
+                    <div class="date" title="Tue Aug 25 2015 17:09:14 -0500">Aug 25, 2015</div>
+                    <div class="reading-time"><div class="middot"></div>1 minute read</div>
+                </div>
+            </div>
+            <div class="markdown">
+                <p>I recently discovered that from git version <a href="https://github.com/git/git/blob/master/Documentation/RelNotes/1.8.5.txt#L100">1.8.5</a> onwards, <code>@</code> can replace <code>HEAD</code>:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>$ git reset --hard @~2
+$ git rebase -i @~10
+$ git diff @~2..@~3
+</code></pre></div>
+
+
+<p>And also in most scenarios <code>HEAD</code> can be left out completely, so you can say:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>$ git reset -- @<span class="o">{</span>2<span class="o">}</span>
+</code></pre></div>
+
+
+<p>instead of:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>$ git reset -- HEAD@<span class="o">{</span>2<span class="o">}</span>
+</code></pre></div>
+
+
+<p>It takes some getting used to, but it&rsquo;s definitely faster than typing <code>HEAD</code>.</p>
+
+                <br>
+                <p><a href="https://you.github.io/blog/">Back to posts</a></p>
+            </div>
+            <br>
+            <div class="disqus">
+                <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'cocoaexamplesite';
+    var disqus_identifier = 'https:\/\/you.github.io\/blog\/use-at-instead-of-head\/';
+    var disqus_title = 'Use @ instead of HEAD';
+    var disqus_url = 'https:\/\/you.github.io\/blog\/use-at-instead-of-head\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+    var pageTracker = _gat._getTracker("XYZ");
+    pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/highlight.min.js"></script>
+
+  <script type="text/javascript">
+    hljs.initHighlightingOnLoad();
+  </script>
+
+
+
+</body>
+</html>
+
