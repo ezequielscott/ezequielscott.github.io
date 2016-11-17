@@ -6,8 +6,18 @@
     <description>Recent content on Ezequiel Scott</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Dec 2015 04:05:25 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2016 22:03:58 -0300</lastBuildDate>
     <atom:link href="https://ezequielscott.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>publications</title>
+      <link>https://ezequielscott.github.io/publications/</link>
+      <pubDate>Wed, 16 Nov 2016 22:03:58 -0300</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/</guid>
+      <description>&lt;p&gt;This are my publications&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Les Misérables by Victor Hugo</title>
