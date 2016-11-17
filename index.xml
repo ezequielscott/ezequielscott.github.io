@@ -10,11 +10,21 @@
     <atom:link href="https://ezequielscott.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>publications</title>
+      <title>Publications</title>
       <link>https://ezequielscott.github.io/publications/</link>
       <pubDate>Wed, 16 Nov 2016 22:03:58 -0300</pubDate>
       
       <guid>https://ezequielscott.github.io/publications/</guid>
+      <description>&lt;p&gt;These are my publications&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ezequielscott.github.io/teaching/</link>
+      <pubDate>Wed, 16 Nov 2016 22:03:58 -0300</pubDate>
+      
+      <guid>https://ezequielscott.github.io/teaching/</guid>
       <description>&lt;p&gt;These are my publications&amp;hellip;&lt;/p&gt;
 </description>
     </item>
@@ -118,6 +128,20 @@ $ git diff @~2..@~3
 &lt;p&gt;In time, he learns how to fly and carves a niche for himself as a sandwich-maker.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;//placehold.it/300x300&#34; class=&#34;profile&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;colophon/&#34;&gt;About this site&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://ezequielscott.github.io/home/</link>
+      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
+      
+      <guid>https://ezequielscott.github.io/home/</guid>
+      <description>&lt;p&gt;Home page.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
