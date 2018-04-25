@@ -53,6 +53,9 @@
 
 >
 
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+
 
 
 
@@ -96,6 +99,12 @@
 <section class="icons">
     <div class="container">
         <div class="content">
+		
+		
+            <a href="//researchgate.net/profile/Ezequiel_Scott" target="_blank">
+                <i class="ai ai-researchgate-square ai-2x"></i>
+            </a>
+        
 
         
 
@@ -103,7 +112,7 @@
 
         
             <a href="//linkedin.com/in/ezequielscott" target="_blank">
-                <i class="icon ion-social-linkedin"></i>
+                <i class="fab fa-linkedin fa-2x"></i>
             </a>
         
 
@@ -113,19 +122,19 @@
 
         
             <a href="//scholar.google.com.ar/citations?user=jYuH43AAAAAJ" target="_blank">
-                <i class="icon ion-university larger"></i>
+				<i class="ai ai-google-scholar-square ai-2x"></i>
             </a>
         
 
         
             <a href="mailto:ezequielscott@gmail.com">
-                <i class="icon ion-ios-email larger"></i>
+                <i class="fas fa-envelope fa-2x"></i>
             </a>
         
 
         
             <a href="https://ezequielscott.github.io/index.xml">
-                <i class="icon ion-social-rss larger"></i>
+                <i class="fas fa-rss fa-2x"></i>
             </a>
         
         </div>
@@ -154,23 +163,17 @@
             <div class="markdown">
                 <p>I recently discovered that from git version <a href="https://github.com/git/git/blob/master/Documentation/RelNotes/1.8.5.txt#L100">1.8.5</a> onwards, <code>@</code> can replace <code>HEAD</code>:</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>$ git reset --hard @~2
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">$ git reset --hard @~2
 $ git rebase -i @~10
-$ git diff @~2..@~3
-</code></pre></div>
-
+$ git diff @~2..@~3</code></pre></div>
 
 <p>And also in most scenarios <code>HEAD</code> can be left out completely, so you can say:</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>$ git reset -- @<span class="o">{</span>2<span class="o">}</span>
-</code></pre></div>
-
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">$ git reset -- @<span class="o">{</span><span class="m">2</span><span class="o">}</span></code></pre></div>
 
 <p>instead of:</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>$ git reset -- HEAD@<span class="o">{</span>2<span class="o">}</span>
-</code></pre></div>
-
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">$ git reset -- HEAD@<span class="o">{</span><span class="m">2</span><span class="o">}</span></code></pre></div>
 
 <p>It takes some getting used to, but it&rsquo;s definitely faster than typing <code>HEAD</code>.</p>
 
@@ -180,20 +183,25 @@ $ git diff @~2..@~3
             <br>
             <div class="disqus">
                 <div id="disqus_thread"></div>
-<script type="text/javascript">
-    var disqus_shortname = 'cocoaexamplesite';
-    var disqus_identifier = 'https:\/\/ezequielscott.github.io\/blog\/use-at-instead-of-head\/';
-    var disqus_title = 'Use @ instead of HEAD';
-    var disqus_url = 'https:\/\/ezequielscott.github.io\/blog\/use-at-instead-of-head\/';
-
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
     (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "cocoaexamplesite" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
             </div>
         </div>
     </div>

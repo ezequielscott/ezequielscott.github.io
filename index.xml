@@ -2,109 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ezequiel Scott</title>
-    <link>https://ezequielscott.github.io/index.xml</link>
+    <link>https://ezequielscott.github.io/</link>
     <description>Recent content on Ezequiel Scott</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 16 Nov 2016 22:03:58 -0300</lastBuildDate>
-    <atom:link href="https://ezequielscott.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Apr 2018 06:42:21 -0700</lastBuildDate>
     
-    <item>
-      <title>Publications</title>
-      <link>https://ezequielscott.github.io/publications/</link>
-      <pubDate>Wed, 16 Nov 2016 22:03:58 -0300</pubDate>
-      
-      <guid>https://ezequielscott.github.io/publications/</guid>
-      <description>
-
-&lt;h3 id=&#34;phd-thesis&#34;&gt;PhD Thesis&lt;/h3&gt;
-
-&lt;p&gt;An Adaptive Approach for Training Software Developers &lt;a class=&#34;btn btn-primary btn-xs&#34; href=&#34;files/thesis-scott.pdf&#34; role=&#34;button&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;international-journals&#34;&gt;International Journals&lt;/h3&gt;
-
-&lt;h4 id=&#34;2016&#34;&gt;2016&lt;/h4&gt;
-
-&lt;p&gt;Ezequiel Scott, Álvaro Soria, and Marcelo Campo: Adaptive 3D Virtual Learning Environments – A Review of the Literature. &lt;em&gt;IEEE Transactions on Learning Technologies&lt;/em&gt;; 09/2016 [In press]; IEEE. &lt;a href=&#34;http://dx.doi.org/10.1109/TLT.2016.2609910&#34;&gt;DOI:10.1109/TLT.2016.2609910&lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-xs&#34; href=&#34;files/scott2016-TLT.pdf&#34; role=&#34;button&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Ezequiel Scott, Álvaro Soria, and Marcelo Campo: A taxonomy-based approach for fault localization in Service-Oriented applications. &lt;em&gt;IEEE Latin America Transactions&lt;/em&gt; 14:5; 05/2016; 2348–2354. IEEE. &lt;a href=&#34;http://dx.doi.org/10.1109/TLA.2016.7530432&#34;&gt;DOI:10.1109/TLA.2016.7530432&lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-xs&#34; href=&#34;files/scott2016-LA.pdf&#34; role=&#34;button&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Towards better Scrum learning using learning styles. &lt;em&gt;Journal of Systems and Software&lt;/em&gt;. 01/2016; 242–253. Elsevier. &lt;a href=&#34;http://dx.doi.org/10.1016/j.jss.2015.10.022&#34;&gt;DOI:10.1016/j.jss.2015.10.022&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;2014&#34;&gt;2014&lt;/h4&gt;
-
-&lt;p&gt;Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Are learning styles useful indicators to discover how students use Scrum for the first time? &lt;em&gt;Computers in Human Behavior&lt;/em&gt; 07/2014; 36:56–64. Elsevier. &lt;a href=&#34;http://dx.doi.org/10.1016/j.chb.2014.03.027&#34;&gt;DOI:10.1016/j.chb.2014.03.027&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;book-chapters&#34;&gt;Book Chapters&lt;/h3&gt;
-
-&lt;h4 id=&#34;2014-1&#34;&gt;2014&lt;/h4&gt;
-
-&lt;p&gt;Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Experiences in Software Engineering Education: Using Scrum, Agile Coaching, and Virtual Reality. &lt;em&gt;Overcoming Challenges in Software Engineering Education: Delivering Non-Technical Knowledge and Skills&lt;/em&gt;, Edited by Liguo Yu, 01/2014: chapter Experiences in Software Engineering Education: Using Scrum, Agile Coaching, and Virtual Reality: pages 250-276; IGI Global., ISBN: 1466658010&lt;/p&gt;
-
-&lt;h3 id=&#34;conferences&#34;&gt;Conferences&lt;/h3&gt;
-
-&lt;h4 id=&#34;2016-1&#34;&gt;2016&lt;/h4&gt;
-
-&lt;p&gt;Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Towards better Scrum learning using learning styles. In &lt;em&gt;Communications of XV Argentine Symposium on Software Engineering (ASSE) - 45 JAIIO&lt;/em&gt;. Buenos Aires, Argentina; 09/2016.&lt;/p&gt;
-
-&lt;h4 id=&#34;2015&#34;&gt;2015&lt;/h4&gt;
-
-&lt;p&gt;Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Are learning styles useful indicators to discover how students use Scrum for the first time?. In &lt;em&gt;Communications of XVI Argentine Symposium on Artificial Intelligence (ASAI) - 44 JAIIO&lt;/em&gt;. Buenos Aires, Argentina; 09/2015.&lt;/p&gt;
-
-&lt;h4 id=&#34;2014-2&#34;&gt;2014&lt;/h4&gt;
-
-&lt;p&gt;Guillermo Rodríguez, Ezequiel Scott, Álvaro Soria, Marcelo Campo: Razonamiento basado en casos para la materialización de arquitecturas orientadas a servicios. In &lt;em&gt;XV Argentine Symposium on Artificial Intelligence (ASAI) - 43 JAIIO&lt;/em&gt;. Buenos Aires, Argentina; 09/2014.&lt;/p&gt;
-
-&lt;h4 id=&#34;2013&#34;&gt;2013&lt;/h4&gt;
-
-&lt;p&gt;Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: El Rol del Estilo de Aprendizaje en la Enseñanza de Prácticas de Scrum: Un Enfoque Estadístico. In &lt;em&gt;Argentine Symposium on Software Engineering (ASSE) - 42 JAIIO&lt;/em&gt;. Córdoba, Argentina; 09/2013. &lt;a class=&#34;btn btn-primary btn-xs&#34; href=&#34;files/scott2013-42jaiio.pdf&#34; role=&#34;button&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;2012&#34;&gt;2012&lt;/h4&gt;
-
-&lt;p&gt;Ezequiel Scott, Álvaro Soria: Localización de Fallas dirigida por Taxonomía en Aplicaciones Orientadas a Servicios. In &lt;em&gt;Concurso de Trabajos Estudiantiles (EST) - 41 JAIIO&lt;/em&gt;. La Plata, Argentina; 08/2012. &lt;a class=&#34;btn btn-primary btn-xs&#34; href=&#34;files/scott2012-41jaiio.pdf&#34; role=&#34;button&#34;&gt;pdf&lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-xs&#34; href=&#34;files/poster-scott-EST.pdf&#34; role=&#34;button&#34;&gt;poster&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;posters&#34;&gt;Posters&lt;/h3&gt;
-
-&lt;h4 id=&#34;2016-2&#34;&gt;2016&lt;/h4&gt;
-
-&lt;p&gt;An Adaptive Approach for Training Software Developers presented at &lt;em&gt;3rd ICSE 2017 PhD and Young Researchers Warm Up Symposium&lt;/em&gt; &lt;a class=&#34;btn btn-primary btn-xs&#34; href=&#34;files/icsewp2016-scott.pdf&#34; role=&#34;button&#34;&gt;poster&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="https://ezequielscott.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Teaching</title>
       <link>https://ezequielscott.github.io/teaching/</link>
-      <pubDate>Wed, 16 Nov 2016 22:03:58 -0300</pubDate>
+      <pubDate>Wed, 25 Apr 2018 06:42:21 -0700</pubDate>
       
       <guid>https://ezequielscott.github.io/teaching/</guid>
-      <description>
-
-&lt;h3 id=&#34;october-2016-present&#34;&gt;October 2016&amp;ndash;Present&lt;/h3&gt;
-
-&lt;p&gt;Teaching Assistant at Faculty of Exact Sciences, UNICEN, Tandil. Graduate Teaching Assistant in the course “Documentation and Validation Techniques” at UNICEN.&lt;/p&gt;
-
-&lt;h3 id=&#34;april-2015-october-2016&#34;&gt;April 2015&amp;ndash;October 2016&lt;/h3&gt;
-
-&lt;p&gt;Teaching Assistant at Faculty of Exact Sciences, UNICEN, Tandil. Graduate Teaching Assistant in the course “Software Engineering” at UNICEN. Research activities involved.&lt;/p&gt;
-
-&lt;h3 id=&#34;october-2012-april-2015&#34;&gt;October 2012&amp;ndash;April 2015&lt;/h3&gt;
-
-&lt;p&gt;Teaching Assistant at Faculty of Exact Sciences, UNICEN, Tandil. Graduate Teaching Assistant Ad-Honorem in the course “Software Engineering Workshop” at UNICEN. Research activities involved.&lt;/p&gt;
-
-&lt;h3 id=&#34;april-2014-october-2014&#34;&gt;April 2014&amp;ndash;October 2014&lt;/h3&gt;
-
-&lt;p&gt;Teaching Assistant at Faculty of Exact Sciences, UNICEN, Tandil. Graduate Teaching Assistant in the course “Software Engineering” at UNICEN. Research activities involved.&lt;/p&gt;
-
-&lt;h3 id=&#34;april-2013-october-2013&#34;&gt;April 2013&amp;ndash;October 2013&lt;/h3&gt;
-
-&lt;p&gt;Teaching Assistant at Faculty of Exact Sciences, UNICEN, Tandil. Graduate Teaching Assistant in the course “Object Oriented Programming” at UNICEN.&lt;/p&gt;
-
-&lt;h2 id=&#34;supervised-projects&#34;&gt;Supervised Projects&lt;/h2&gt;
-
-&lt;h3 id=&#34;2016&#34;&gt;2016&lt;/h3&gt;
-
-&lt;p&gt;Co-advisor of the final project entitled “A Virtual Environment for Teaching Scrum with LEGO” (undergraduate level).&lt;/p&gt;
-</description>
+      <description>2017&amp;frasl;18 spring Lecturer at Faculty of Science and Technology, Institute of Computer Science, University of Tartu, Tartu, Estonia. Lecturer in the course LTAT.05.008 - “Software Analytics”.
+Teaching Assistant at Faculty of Science and Technology, Institute of Computer Science, University of Tartu, Tartu, Estonia. Teaching Assistant in the course MTAT.03.159 - “Software Testing.
+2017&amp;frasl;18 fall Teaching Assistant at Faculty of Science and Technology, Institute of Computer Science, University of Tartu, Tartu, Estonia.</description>
     </item>
     
     <item>
@@ -113,21 +28,8 @@
       <pubDate>Mon, 21 Dec 2015 04:05:25 -0600</pubDate>
       
       <guid>https://ezequielscott.github.io/blog/les-mis%C3%A9rables-by-victor-hugo/</guid>
-      <description>
-
-&lt;p&gt;Although this detail has no connection whatever with the real substance of what we are about to relate, it will not be superfluous, if merely for the sake of exactness in all points, to mention here the various rumors and remarks which had been in circulation about him from the very moment when he arrived in the diocese.&lt;/p&gt;
-
-&lt;h3 id=&#34;bool&#34;&gt;Bool&lt;/h3&gt;
-
-&lt;p&gt;True or false, that which is said of men often occupies as important a place in their lives, and above all in their destinies, as that which they do. M. Myriel was the son of a councillor of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Parliament_of_Aix-en-Provence&#34;&gt;Parliament of Aix&lt;/a&gt;; hence he belonged to the nobility of the bar. It was said that his father, destining him to be the heir of his own post, had married him at a very early age, eighteen or twenty, in accordance with a custom which is rather widely prevalent in parliamentary families. In spite of this marriage, however, it was said that Charles Myriel created a great deal of talk. He was well formed, though rather short in stature, elegant, graceful, intelligent; the whole of the first portion of his life had been devoted to the world and
-to gallantry.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;The halls are nothing but rooms, and it is with difficulty that the air can be changed in them.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This conversation took place in the gallery dining-room on the ground-floor. The &lt;a href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&#34;&gt;Bishop&lt;/a&gt; remained silent for a moment; then he turned abruptly to the director of the hospital.&lt;/p&gt;
-</description>
+      <description>Although this detail has no connection whatever with the real substance of what we are about to relate, it will not be superfluous, if merely for the sake of exactness in all points, to mention here the various rumors and remarks which had been in circulation about him from the very moment when he arrived in the diocese.
+Bool True or false, that which is said of men often occupies as important a place in their lives, and above all in their destinies, as that which they do.</description>
     </item>
     
     <item>
@@ -136,29 +38,9 @@ to gallantry.&lt;/p&gt;
       <pubDate>Mon, 21 Dec 2015 04:03:46 -0600</pubDate>
       
       <guid>https://ezequielscott.github.io/blog/metamorphosis-by-franz-kafka/</guid>
-      <description>
-
-&lt;h3 id=&#34;part-one&#34;&gt;Part One&lt;/h3&gt;
-
-&lt;p&gt;One morning, when &lt;em&gt;Gregor Samsa&lt;/em&gt; woke from troubled dreams, he &lt;a href=&#34;./&#34;&gt;found&lt;/a&gt; himself transformed in his bed into a horrible vermin.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.&lt;/p&gt;
-
-&lt;h3 id=&#34;part-two&#34;&gt;Part Two&lt;/h3&gt;
-
-&lt;p&gt;It was not until it was getting dark that evening that Gregor awoke from his deep and coma-like sleep. He would have woken soon afterwards anyway even if he hadn&amp;rsquo;t been disturbed, as he had had enough sleep and felt fully rested. But he had the impression that some hurried steps and the sound of the door leading into the front room being carefully shut had woken him.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;He pushed himself over to the door, feeling his way clumsily with his antennae - of which he was now beginning to learn the value - in order to see what had been happening there.&lt;/li&gt;
-&lt;li&gt;The whole of his left side seemed like one, painfully stretched scar, and he limped badly on his two rows of legs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The light from the &lt;a href=&#34;https://en.wikipedia.org/wiki/Street_light&#34;&gt;electric street lamps&lt;/a&gt; shone palely here and there onto the ceiling and tops of the furniture, but down below, where Gregor was, it was dark.&lt;/p&gt;
-</description>
+      <description>Part One One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
+ He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
+ The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</description>
     </item>
     
     <item>
@@ -167,28 +49,21 @@ to gallantry.&lt;/p&gt;
       <pubDate>Tue, 25 Aug 2015 17:09:14 -0500</pubDate>
       
       <guid>https://ezequielscott.github.io/blog/use-at-instead-of-head/</guid>
-      <description>&lt;p&gt;I recently discovered that from git version &lt;a href=&#34;https://github.com/git/git/blob/master/Documentation/RelNotes/1.8.5.txt#L100&#34;&gt;1.8.5&lt;/a&gt; onwards, &lt;code&gt;@&lt;/code&gt; can replace &lt;code&gt;HEAD&lt;/code&gt;:&lt;/p&gt;
-
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span&gt;&lt;/span&gt;$ git reset --hard @~2
-$ git rebase -i @~10
-$ git diff @~2..@~3
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;And also in most scenarios &lt;code&gt;HEAD&lt;/code&gt; can be left out completely, so you can say:&lt;/p&gt;
-
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span&gt;&lt;/span&gt;$ git reset -- @&lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;2&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;instead of:&lt;/p&gt;
-
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span&gt;&lt;/span&gt;$ git reset -- HEAD@&lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;2&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;It takes some getting used to, but it&amp;rsquo;s definitely faster than typing &lt;code&gt;HEAD&lt;/code&gt;.&lt;/p&gt;
-</description>
+      <description>I recently discovered that from git version 1.8.5 onwards, @ can replace HEAD:
+$ git reset --hard @~2$ git rebase -i @~10$ git diff @~2..@~3 And also in most scenarios HEAD can be left out completely, so you can say:
+$ git reset -- @{2} instead of:
+$ git reset -- HEAD@{2} It takes some getting used to, but it&amp;rsquo;s definitely faster than typing HEAD.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ezequielscott.github.io/about/</link>
+      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
+      
+      <guid>https://ezequielscott.github.io/about/</guid>
+      <description>Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.
+ He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.
+ In time, he learns how to fly and carves a niche for himself as a sandwich-maker.</description>
     </item>
     
     <item>
@@ -197,64 +72,7 @@ $ git diff @~2..@~3
       <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
       
       <guid>https://ezequielscott.github.io/home/</guid>
-      <description>&lt;p&gt;My research interests lie at the intersection between software engineering and education, mainly focusing on adaptive environments for aiding students in their learning process. I have a strong interest in human factors and psychological issues involved in technology enhanced learning. In particular, I am interested in not only using artificial intelligence for building adaptive environments but also in measuring the learning outcomes when these environments are used in real contexts.  Moreover, I have most recently focused on applying adaptive environments for teaching agile methods like Scrum.&lt;/p&gt;
-
-&lt;p&gt;I graduated from &lt;a href=&#34;http://www.unicen.edu.ar/&#34;&gt;Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)&lt;/a&gt; in Systems Engineering in Tandil, Argentina, 2012. In the same year, I obtained a scholarship from &lt;a href=&#34;http://www.conicet.gov.ar/&#34;&gt;CONICET&lt;/a&gt; to complete my doctoral studies. Then, I obtained the PhD. degree in Computer Science at UNICEN in 2016. I have been part of ISISTAN Research Institute, where I have worked on projects related to software engineering, virtual reality, and virtual learning environments. I have also served as teaching assistant in the UNICEN on the Software Engineering course and the Software Engineering workshop. My research has been published in journals including &lt;em&gt;Journal of Systems and Software&lt;/em&gt;, &lt;em&gt;Computers in Human Behavior&lt;/em&gt; and &lt;em&gt;IEEE Transactions on Learning Technologies&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about-2</title>
-      <link>https://ezequielscott.github.io/about-2/</link>
-      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
-      
-      <guid>https://ezequielscott.github.io/about-2/</guid>
-      <description>&lt;p&gt;Along with &lt;a href=&#34;https://en.wikipedia.org/wiki/Ford_Prefect_(character)&#34;&gt;Ford Prefect&lt;/a&gt;, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a &lt;em&gt;hyperspace bypass&lt;/em&gt;. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In time, he learns how to fly and carves a niche for himself as a sandwich-maker.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;//placehold.it/300x300&#34; class=&#34;profile&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;colophon/&#34;&gt;About this site&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>colophon</title>
-      <link>https://ezequielscott.github.io/colophon/</link>
-      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
-      
-      <guid>https://ezequielscott.github.io/colophon/</guid>
-      <description>&lt;p&gt;This website is a personal homepage.&lt;/p&gt;
-
-&lt;p&gt;The site is built with &lt;a target=&#34;_blank&#34; href=&#34;//gohugo.io&#34;&gt;Hugo&lt;/a&gt;—a static site generator made with Go. The website &lt;a href=&#34;https://ezequielscott.github.io/&#34;&gt;source code&lt;/a&gt; is available on GitHub. It uses the &lt;a target=&#34;_blank&#34; href=&#34;//github.com/nishanths/cocoa-hugo-theme&#34;&gt;cocoa&lt;/a&gt; theme. The posts are written in Markdown.&lt;/p&gt;
-
-&lt;p&gt;The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.&lt;/p&gt;
-
-&lt;p&gt;If you find errors, &lt;a href=&#34;https://ezequielscott.github.io/&#34;&gt;please let me know&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>https://ezequielscott.github.io/code/</link>
-      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
-      
-      <guid>https://ezequielscott.github.io/code/</guid>
-      <description>
-
-&lt;p&gt;The Hitchhiker&amp;rsquo;s Guide to the Galaxy is a comedy science fiction series created by &lt;a href=&#34;https://en.wikipedia.org/wiki/Douglas_Adams&#34;&gt;Douglas Adams&lt;/a&gt;. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a &amp;ldquo;trilogy&amp;rdquo; of five books published between 1979 and 1992, a sixth novel penned by &lt;a href=&#34;https://en.wikipedia.org/wiki/Eoin_Colfer&#34;&gt;Eoin Colfer&lt;/a&gt; in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996. There were also two series of towels, produced by Beer-Davies, that are considered by some fans to be an &amp;ldquo;official version&amp;rdquo; of The Hitchhiker&amp;rsquo;s Guide to the Galaxy, as they include text from the first novel.&lt;/p&gt;
-
-&lt;h3 id=&#34;movie&#34;&gt;Movie&lt;/h3&gt;
-
-&lt;p&gt;A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005. Adams did many of these adaptations, including the novels, the TV series, the computer game, and the earliest drafts of the Hollywood film’s screenplay, and some of the stage shows introduced new material written by Adams.&lt;/p&gt;
-</description>
+      <description>Hi! My name is Ezequiel Scott, and I am currently working as a Research Fellow at University of Tartu, Estonia. My research interests are mainly related to agile software development and software analytics. I have been also making research that lies at the intersection between software engineering and education, mainly focusing on adaptive environments for aiding students in their learning process. I have a strong interest in human factors and psychological issues involved in software development.</description>
     </item>
     
     <item>
@@ -263,15 +81,7 @@ $ git diff @~2..@~3
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ezequielscott.github.io/about-this-site/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;link rel=&#34;canonical&#34; href=&#34;https://ezequielscott.github.io/colophon&#34;/&gt;
-    &lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=utf-8&#34;/&gt;
-    &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0;url=/colophon&#34;/&gt;
-  &lt;/head&gt;
-&lt;/html&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -280,15 +90,7 @@ $ git diff @~2..@~3
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ezequielscott.github.io/posts/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;link rel=&#34;canonical&#34; href=&#34;https://ezequielscott.github.io/blog&#34;/&gt;
-    &lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=utf-8&#34;/&gt;
-    &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0;url=/blog&#34;/&gt;
-  &lt;/head&gt;
-&lt;/html&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -297,15 +99,19 @@ $ git diff @~2..@~3
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ezequielscott.github.io/writing/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;link rel=&#34;canonical&#34; href=&#34;https://ezequielscott.github.io/posts&#34;/&gt;
-    &lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=utf-8&#34;/&gt;
-    &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0;url=/posts&#34;/&gt;
-  &lt;/head&gt;
-&lt;/html&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ezequielscott.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/</guid>
+      <description>PhD Thesis An Adaptive Approach for Training Software Developers
+International Journals 2016 Ezequiel Scott, Álvaro Soria, and Marcelo Campo: Adaptive 3D Virtual Learning Environments – A Review of the Literature. IEEE Transactions on Learning Technologies; 09/2016; IEEE. DOI:10.1109/TLT.2016.2609910
+Ezequiel Scott, Álvaro Soria, and Marcelo Campo: A taxonomy-based approach for fault localization in Service-Oriented applications. IEEE Latin America Transactions 14:5; 05/2016; 2348–2354. IEEE. DOI:10.1109/TLA.2016.7530432
+Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Towards better Scrum learning using learning styles.</description>
     </item>
     
   </channel>
