@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Ezequiel Scott</title>
+    <link>https://ezequielscott.github.io/papers/</link>
+    <description>Recent content in Papers on Ezequiel Scott</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ezequielscott.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaptive 3D Virtual Learning Environments – A Review of the Literature</title>
+      <link>https://ezequielscott.github.io/papers/tlt2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/papers/tlt2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards better Scrum learning using learning styles</title>
+      <link>https://ezequielscott.github.io/papers/jss2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/papers/jss2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are learning styles useful indicators to discover how students use Scrum for the first time?</title>
+      <link>https://ezequielscott.github.io/papers/chb2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/papers/chb2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

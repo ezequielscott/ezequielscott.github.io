@@ -6,10 +6,55 @@
     <description>Recent content on Ezequiel Scott</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Apr 2018 06:42:21 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ezequielscott.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science and Empirical Software Engineering</title>
+      <link>https://ezequielscott.github.io/publications/2020_data_science_and_emp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2020_data_science_and_emp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity, Turnover, and Team Stability of Agile Teams in Open-Source Software Projects</title>
+      <link>https://ezequielscott.github.io/publications/2020_productivity_turnove/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2020_productivity_turnove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tug of Perspectives: Mobile App Users vs Developers</title>
+      <link>https://ezequielscott.github.io/publications/2020_tug/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2020_tug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile Software Process Improvement by Learning from Financial and Fintech Companies: LHV Bank Case Study</title>
+      <link>https://ezequielscott.github.io/publications/2019_agile_software_proce/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2019_agile_software_proce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Debt and Waste in Non-functional Requirements Documentation: An Exploratory Study</title>
+      <link>https://ezequielscott.github.io/publications/2019_technical_debt_and_w/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2019_technical_debt_and_w/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Teaching</title>
@@ -17,100 +62,117 @@
       <pubDate>Wed, 25 Apr 2018 06:42:21 -0700</pubDate>
       
       <guid>https://ezequielscott.github.io/teaching/</guid>
-      <description>2017&amp;frasl;18 spring Lecturer at Faculty of Science and Technology, Institute of Computer Science, University of Tartu, Tartu, Estonia. Lecturer in the course LTAT.05.008 - “Software Analytics”.
-Teaching Assistant at Faculty of Science and Technology, Institute of Computer Science, University of Tartu, Tartu, Estonia. Teaching Assistant in the course MTAT.03.159 - “Software Testing.
-2017&amp;frasl;18 fall Teaching Assistant at Faculty of Science and Technology, Institute of Computer Science, University of Tartu, Tartu, Estonia.</description>
+      <description>I currently teach:
+ Agile Software Development (MTAT.03.295), MSc, University of Tartu Software Engineering (LTAT.05.003), BSc, University of Tartu Software Analytics (LTAT.05.008), MSc, University of Tartu Software Testing (MTAT.03.159), BSc, University of Tartu  In the past, I taught:
+ Software Engineering, Systems Engineering, UNICEN Software Engineering Workshop, Systems Engineering, UNICEN Object Oriented Programming, Systems Engineering, UNICEN Documentation and Validation Techniques, TUPAR, UNICEN  Supervised Students  Onuche Akor Idoko, Master&amp;rsquo;s Degree, 2020.</description>
     </item>
     
     <item>
-      <title>Les Misérables by Victor Hugo</title>
-      <link>https://ezequielscott.github.io/blog/les-mis%C3%A9rables-by-victor-hugo/</link>
-      <pubDate>Mon, 21 Dec 2015 04:05:25 -0600</pubDate>
+      <title>Using developers&#39; features to estimate story points</title>
+      <link>https://ezequielscott.github.io/publications/2018_using_developers_fea/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ezequielscott.github.io/blog/les-mis%C3%A9rables-by-victor-hugo/</guid>
-      <description>Although this detail has no connection whatever with the real substance of what we are about to relate, it will not be superfluous, if merely for the sake of exactness in all points, to mention here the various rumors and remarks which had been in circulation about him from the very moment when he arrived in the diocese.
-Bool True or false, that which is said of men often occupies as important a place in their lives, and above all in their destinies, as that which they do.</description>
+      <guid>https://ezequielscott.github.io/publications/2018_using_developers_fea/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Metamorphosis by Franz Kafka</title>
-      <link>https://ezequielscott.github.io/blog/metamorphosis-by-franz-kafka/</link>
-      <pubDate>Mon, 21 Dec 2015 04:03:46 -0600</pubDate>
+      <title>Adaptive 3D Virtual Learning Environments - A Review of the Literature</title>
+      <link>https://ezequielscott.github.io/publications/2017_adaptive_3d_virtual_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ezequielscott.github.io/blog/metamorphosis-by-franz-kafka/</guid>
-      <description>Part One One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
- He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
- The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</description>
+      <guid>https://ezequielscott.github.io/publications/2017_adaptive_3d_virtual_/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Use @ instead of HEAD</title>
-      <link>https://ezequielscott.github.io/blog/use-at-instead-of-head/</link>
-      <pubDate>Tue, 25 Aug 2015 17:09:14 -0500</pubDate>
+      <title>Experiences in software engineering education: Using scrum, agile coaching, and virtual reality</title>
+      <link>https://ezequielscott.github.io/publications/2017_experiences_in_softw/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ezequielscott.github.io/blog/use-at-instead-of-head/</guid>
-      <description>I recently discovered that from git version 1.8.5 onwards, @ can replace HEAD:
-$ git reset --hard @~2$ git rebase -i @~10$ git diff @~2..@~3 And also in most scenarios HEAD can be left out completely, so you can say:
-$ git reset -- @{2} instead of:
-$ git reset -- HEAD@{2} It takes some getting used to, but it&amp;rsquo;s definitely faster than typing HEAD.</description>
+      <guid>https://ezequielscott.github.io/publications/2017_experiences_in_softw/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://ezequielscott.github.io/about/</link>
-      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
+      <title>Exploring the individual project progress of scrum software developers</title>
+      <link>https://ezequielscott.github.io/publications/2017_exploring_the_indivi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ezequielscott.github.io/about/</guid>
-      <description>Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.
- He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.
- In time, he learns how to fly and carves a niche for himself as a sandwich-maker.</description>
+      <guid>https://ezequielscott.github.io/publications/2017_exploring_the_indivi/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Home</title>
-      <link>https://ezequielscott.github.io/home/</link>
-      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
+      <title>Initial results of the HELENA survey conducted in Estonia with comparison to results from Sweden and worldwide</title>
+      <link>https://ezequielscott.github.io/publications/2017_initial_results_of_t/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ezequielscott.github.io/home/</guid>
-      <description>Hi! :) My name is Ezequiel Scott, and I am currently working as a Research Fellow at University of Tartu, Estonia. My research interests are mainly related to agile software development and software analytics. I have also been working on research that lies at the intersection between software engineering and education, mainly focusing on adaptive environments for aiding students in their learning process. I have a strong interest in human factors and psychological issues involved in software development.</description>
+      <guid>https://ezequielscott.github.io/publications/2017_initial_results_of_t/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://ezequielscott.github.io/about-this-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>A Taxonomy-based Approach for Fault Localization in Service-Oriented Applications</title>
+      <link>https://ezequielscott.github.io/publications/2016_a_taxonomy-based_app/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ezequielscott.github.io/about-this-site/</guid>
-      <description></description>
+      <guid>https://ezequielscott.github.io/publications/2016_a_taxonomy-based_app/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://ezequielscott.github.io/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>An Adaptive Approach for Training Software Developers</title>
+      <link>https://ezequielscott.github.io/publications/2016_an_adaptive/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ezequielscott.github.io/posts/</guid>
-      <description></description>
+      <guid>https://ezequielscott.github.io/publications/2016_an_adaptive/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://ezequielscott.github.io/writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Towards better Scrum learning using learning styles</title>
+      <link>https://ezequielscott.github.io/publications/2016_towards_better_scrum/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ezequielscott.github.io/writing/</guid>
-      <description></description>
+      <guid>https://ezequielscott.github.io/publications/2016_towards_better_scrum/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://ezequielscott.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Are learning styles useful indicators to discover how students use Scrum for the first time?</title>
+      <link>https://ezequielscott.github.io/publications/2015_are_learning_styles_/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://ezequielscott.github.io/publications/</guid>
-      <description>International Journals 2016 Ezequiel Scott, Álvaro Soria, and Marcelo Campo: Adaptive 3D Virtual Learning Environments – A Review of the Literature. IEEE Transactions on Learning Technologies; 09/2016; IEEE. DOI:10.1109/TLT.2016.2609910 PDF
-Ezequiel Scott, Álvaro Soria, and Marcelo Campo: A taxonomy-based approach for fault localization in Service-Oriented applications. IEEE Latin America Transactions 14:5; 05/2016; 2348–2354. IEEE. DOI:10.1109/TLA.2016.7530432 PDF
-Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Towards better Scrum learning using learning styles.</description>
+      <guid>https://ezequielscott.github.io/publications/2015_are_learning_styles_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Razonamiento Basado en Casos para la Materializaci&#39;on de Arquitecturas Orientadas a Servicios</title>
+      <link>https://ezequielscott.github.io/publications/2014_razonamiento_basado_/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2014_razonamiento_basado_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El rol del estilo de aprendizaje en la ense~nanza de practicas de scrum: Un enfoque estadistico</title>
+      <link>https://ezequielscott.github.io/publications/2013_el_rol_del_estilo_de/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2013_el_rol_del_estilo_de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un Sistema de Reglas para Asistir en la Localizacion de Fallas en Aplicaciones Orientadas a Servicios</title>
+      <link>https://ezequielscott.github.io/publications/2012_un_sistema_de_reglas/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2012_un_sistema_de_reglas/</guid>
+      <description></description>
     </item>
     
   </channel>

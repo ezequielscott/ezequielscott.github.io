@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fixed on Ezequiel Scott</title>
+    <title>Home on Ezequiel Scott</title>
     <link>https://ezequielscott.github.io/fixed/</link>
-    <description>Recent content in Fixed on Ezequiel Scott</description>
+    <description>Recent content in Home on Ezequiel Scott</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Apr 2018 06:42:21 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2015 06:42:21 -0700</lastBuildDate>
     
 	<atom:link href="https://ezequielscott.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,40 +17,9 @@
       <pubDate>Wed, 25 Apr 2018 06:42:21 -0700</pubDate>
       
       <guid>https://ezequielscott.github.io/teaching/</guid>
-      <description>2017&amp;frasl;18 spring Lecturer at Faculty of Science and Technology, Institute of Computer Science, University of Tartu, Tartu, Estonia. Lecturer in the course LTAT.05.008 - “Software Analytics”.
-Teaching Assistant at Faculty of Science and Technology, Institute of Computer Science, University of Tartu, Tartu, Estonia. Teaching Assistant in the course MTAT.03.159 - “Software Testing.
-2017&amp;frasl;18 fall Teaching Assistant at Faculty of Science and Technology, Institute of Computer Science, University of Tartu, Tartu, Estonia.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ezequielscott.github.io/about/</link>
-      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
-      
-      <guid>https://ezequielscott.github.io/about/</guid>
-      <description>Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.
- He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.
- In time, he learns how to fly and carves a niche for himself as a sandwich-maker.</description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>https://ezequielscott.github.io/home/</link>
-      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
-      
-      <guid>https://ezequielscott.github.io/home/</guid>
-      <description>Hi! :) My name is Ezequiel Scott, and I am currently working as a Research Fellow at University of Tartu, Estonia. My research interests are mainly related to agile software development and software analytics. I have also been working on research that lies at the intersection between software engineering and education, mainly focusing on adaptive environments for aiding students in their learning process. I have a strong interest in human factors and psychological issues involved in software development.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://ezequielscott.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ezequielscott.github.io/publications/</guid>
-      <description>International Journals 2016 Ezequiel Scott, Álvaro Soria, and Marcelo Campo: Adaptive 3D Virtual Learning Environments – A Review of the Literature. IEEE Transactions on Learning Technologies; 09/2016; IEEE. DOI:10.1109/TLT.2016.2609910 PDF
-Ezequiel Scott, Álvaro Soria, and Marcelo Campo: A taxonomy-based approach for fault localization in Service-Oriented applications. IEEE Latin America Transactions 14:5; 05/2016; 2348–2354. IEEE. DOI:10.1109/TLA.2016.7530432 PDF
-Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Towards better Scrum learning using learning styles.</description>
+      <description>I currently teach:
+ Agile Software Development (MTAT.03.295), MSc, University of Tartu Software Engineering (LTAT.05.003), BSc, University of Tartu Software Analytics (LTAT.05.008), MSc, University of Tartu Software Testing (MTAT.03.159), BSc, University of Tartu  In the past, I taught:
+ Software Engineering, Systems Engineering, UNICEN Software Engineering Workshop, Systems Engineering, UNICEN Object Oriented Programming, Systems Engineering, UNICEN Documentation and Validation Techniques, TUPAR, UNICEN  Supervised Students  Onuche Akor Idoko, Master&amp;rsquo;s Degree, 2020.</description>
     </item>
     
   </channel>

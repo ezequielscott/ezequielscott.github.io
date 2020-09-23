@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Ezequiel Scott</title>
+    <link>https://ezequielscott.github.io/publication_types/conference/</link>
+    <description>Recent content in Conference on Ezequiel Scott</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ezequielscott.github.io/publication_types/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Productivity, Turnover, and Team Stability of Agile Teams in Open-Source Software Projects</title>
+      <link>https://ezequielscott.github.io/publications/2020_productivity_turnove/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2020_productivity_turnove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile Software Process Improvement by Learning from Financial and Fintech Companies: LHV Bank Case Study</title>
+      <link>https://ezequielscott.github.io/publications/2019_agile_software_proce/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2019_agile_software_proce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Debt and Waste in Non-functional Requirements Documentation: An Exploratory Study</title>
+      <link>https://ezequielscott.github.io/publications/2019_technical_debt_and_w/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2019_technical_debt_and_w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using developers&#39; features to estimate story points</title>
+      <link>https://ezequielscott.github.io/publications/2018_using_developers_fea/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2018_using_developers_fea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the individual project progress of scrum software developers</title>
+      <link>https://ezequielscott.github.io/publications/2017_exploring_the_indivi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2017_exploring_the_indivi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial results of the HELENA survey conducted in Estonia with comparison to results from Sweden and worldwide</title>
+      <link>https://ezequielscott.github.io/publications/2017_initial_results_of_t/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2017_initial_results_of_t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Razonamiento Basado en Casos para la Materializaci&#39;on de Arquitecturas Orientadas a Servicios</title>
+      <link>https://ezequielscott.github.io/publications/2014_razonamiento_basado_/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2014_razonamiento_basado_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El rol del estilo de aprendizaje en la ense~nanza de practicas de scrum: Un enfoque estadistico</title>
+      <link>https://ezequielscott.github.io/publications/2013_el_rol_del_estilo_de/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2013_el_rol_del_estilo_de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un Sistema de Reglas para Asistir en la Localizacion de Fallas en Aplicaciones Orientadas a Servicios</title>
+      <link>https://ezequielscott.github.io/publications/2012_un_sistema_de_reglas/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2012_un_sistema_de_reglas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
