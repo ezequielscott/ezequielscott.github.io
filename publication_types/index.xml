@@ -6,7 +6,6 @@
     <description>Recent content in Publication_types on Ezequiel Scott</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ezequielscott.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +13,7 @@
     <item>
       <title>Chapter</title>
       <link>https://ezequielscott.github.io/publication_types/chapter/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ezequielscott.github.io/publication_types/chapter/</guid>
       <description></description>
@@ -23,7 +22,7 @@
     <item>
       <title>Conference</title>
       <link>https://ezequielscott.github.io/publication_types/conference/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ezequielscott.github.io/publication_types/conference/</guid>
       <description></description>
@@ -32,7 +31,7 @@
     <item>
       <title>Journal</title>
       <link>https://ezequielscott.github.io/publication_types/journal/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ezequielscott.github.io/publication_types/journal/</guid>
       <description></description>
@@ -41,7 +40,7 @@
     <item>
       <title>Poster</title>
       <link>https://ezequielscott.github.io/publication_types/poster/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ezequielscott.github.io/publication_types/poster/</guid>
       <description></description>
