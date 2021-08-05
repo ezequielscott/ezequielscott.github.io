@@ -9,21 +9,21 @@ It is intended to be a demo site for the various [Hugo themes][].
 
 1. First, [install Hugo](http://gohugo.io/overview/installing/);
 2. Then, clone this repository;
-3. Clone the [Hugo themes][];
-4. Run Hugo and select the theme of your choosing.
+3. Run the server locally <code>hugo server -t cocoa</code>
 
 In other words:
 
-<pre><code>git clone https://github.com/spf13/HugoBasicExample.git
-cd HugoBasicExample
-git clone --recursive https://github.com/spf13/hugoThemes.git themes
-hugo server -t <em>themename</em>
+<pre><code>
+git clone https://github.com/ezequielscott/ezequielscott.github.io
+cd ezequielscott.github.io
+hugo server -t cocoa
 </code></pre>
 
 Enjoy!
 
 [Hugo themes]: https://github.com/spf13/hugoThemes
 
-Files are stored in static/files
-For adding icons at the bottom part go to themes/cocoa/layouts/static
-The home page must be placed on content/fixed folder and title = "Home"
+# Notes: 
+* Files are stored in static/files
+* For adding icons at the bottom part go to themes/cocoa/layouts/static
+* The home page must be placed on content/fixed folder and title = "Home"
