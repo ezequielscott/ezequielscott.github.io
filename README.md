@@ -13,8 +13,7 @@ It is intended to be a demo site for the various [Hugo themes][].
 
 In other words:
 
-<pre><code>
-git clone https://github.com/ezequielscott/ezequielscott.github.io
+<pre><code>git clone https://github.com/ezequielscott/ezequielscott.github.io
 cd ezequielscott.github.io
 hugo server -t cocoa
 </code></pre>
