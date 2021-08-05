@@ -1,0 +1,70 @@
+baseurl = "https://ezequielscott.github.io/" 
+builddrafts = false
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+datadir = "files"
+author = "Ezequiel Scott"
+title = "Ezequiel Scott"
+pygmentsuseclasses = true
+disqusshortname = "cocoaexamplesite" # Comment out to disable Disqus.
+pluralizelisttitles = false
+disablePathToLower = true
+
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug/"
+
+ [[menu.main]]
+    name = "CV"
+    weight = -90
+    identifier = "cv"
+    url = "/files/SCOTT_CV2021.pdf"
+#[[menu.main]]
+#    name = "blog"
+#    weight = -100
+#    identifier = "blog"
+#    url = "/blog/"
+[[menu.main]]
+    name = "publications"
+    weight = -110
+    identifier = "publications"
+    url = "/publications/"
+[[menu.main]]
+    name = "teaching"
+    weight = -120
+    identifier = "teaching"
+    url = "/teaching/"
+[[menu.main]]
+    name = "about"
+    weight = -130
+    url = "/"
+
+[taxonomies]
+publication_type = "publication_types"
+publication_year = "year"
+
+[params]
+author = "Ezequiel Scott"
+
+publication_type = "Journal"
+# gravatar = "" # do not use in the same time as Avatar
+# avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
+cachebuster = true
+dateform = "2006-01-01"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Don't panic"
+email = "ezequiel.scott@ut.ee"
+faviconfile = "img/leaf.ico"
+gatracker = "UA-87603857-1"
+# github = "//github.com/ezequielscott"
+highlightjs = true
+# initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
+lang = "en"
+linkedin = "//linkedin.com/in/ezequielscott"
+# twitter = "//twitter.com/ezequielscott"
+scholar = "//scholar.google.com.ar/citations?user=jYuH43AAAAAJ"
+researchgate = "//researchgate.net/profile/Ezequiel_Scott"
+extracssfiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.

@@ -1,0 +1,10 @@
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="btn-group btn-group">
+            {{ range $key, $taxonomy := .Site.Taxonomies.publication_types }}
+            <a href="{{ "/publication_types/" | relURL }}{{ $key | urlize }}" class="btn btn-default">{{ upper $key }} <span class="badge">{{ len $taxonomy.Pages }}</span> </a>
+            {{ end }}
+            <a href="/publications/" }} class="btn btn-default">ALL <span class="badge">{{ len (where .Site.RegularPages "Section" "==" "publications") }}</span> </a> 
+        </div>
+    </div>
+</section>

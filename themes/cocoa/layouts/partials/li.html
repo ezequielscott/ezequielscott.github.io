@@ -1,0 +1,27 @@
+
+    <li class="content">
+        <div class="content">
+            <strong>{{ .Title }}</strong> 
+            {{ $len := (len .Params.authors) }}
+            <div><small>{{ range $index, $element := .Params.authors }}{{.}}{{if ne (add $index 1) $len}},{{end}} {{end}}</small></div>
+            <div><small>{{ .Params.Publication }}</small></div>    
+            <span class="label label-primary">{{ .Params.year }}</span>
+            <span class="label label-info">{{ .Params.Publication_types}}</span> 
+            
+            {{ if (isset .Params "url_pdf") }}
+                <a href={{ .Params.Url_pdf }}><span class="label label-success">PDF</span></a> 
+            {{ end }}
+
+            {{ if (isset .Params "arxiv") }}
+                <a href={{ .Params.arxiv }}><span class="label label-danger">arXiv</span></a> 
+            {{ end }}
+
+            {{ if (isset .Params "doi") }}
+                <a href={{ .Params.doi }}><span class="label label-warning">DOI</span></a> 
+            {{ end }}
+
+
+        </div>
+        <hr>
+    </li>
+
