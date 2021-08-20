@@ -5,5 +5,5 @@ date = "2012-01-01"
 authors = ["Ezequiel Scott"]
 publication_types = "Conference"
 publication = "41 JAIIO - Concurso de Trabajos Estudiantiles EST 2012"
-url_pdf = ""/files/EST_2012.pdf""
+url_pdf = "/files/EST_2012.pdf"
 +++
