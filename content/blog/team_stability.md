@@ -11,7 +11,7 @@ In open-source projects, anybody can inspect, modify, and share the source of th
 
 Developers contribute to open-source projects differently; some contribute regularly whereas others occasionally. I made this vizualization to represent these dynamics.
 
-In the vizualization above, each developer is depicted by a dot, and each iteration is represented by a different color. The nickname of the developer is displayed in a big label when the mouse pointer is over the corresponding dot. The number of iterations in which the developer contributed is shown between brackets.
+In the vizualization below, each developer is depicted by a dot, and each iteration is represented by a different color. The nickname of the developer is displayed in a big label when the mouse pointer is over the corresponding dot. The number of iterations in which the developer contributed is shown between brackets.
 
 {{< observablenotebook >}}
 
