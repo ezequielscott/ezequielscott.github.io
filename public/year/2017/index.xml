@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 on Ezequiel Scott</title>
+    <link>https://ezequielscott.github.io/year/2017/</link>
+    <description>Recent content in 2017 on Ezequiel Scott</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ezequielscott.github.io/year/2017/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adaptive 3D Virtual Learning Environments - A Review of the Literature</title>
+      <link>https://ezequielscott.github.io/publications/2017_Adaptive_3D_Virtual_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2017_Adaptive_3D_Virtual_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences in software engineering education: Using scrum, agile coaching, and virtual reality</title>
+      <link>https://ezequielscott.github.io/publications/2017_Experiences_in_softw/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2017_Experiences_in_softw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the individual project progress of scrum software developers</title>
+      <link>https://ezequielscott.github.io/publications/2017_Exploring_the_indivi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2017_Exploring_the_indivi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial results of the HELENA survey conducted in Estonia with comparison to results from Sweden and worldwide</title>
+      <link>https://ezequielscott.github.io/publications/2017_Initial_results_of_t/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezequielscott.github.io/publications/2017_Initial_results_of_t/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

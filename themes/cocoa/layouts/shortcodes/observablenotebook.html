@@ -1,0 +1,18 @@
+<div id="obs-notebook"></div>
+
+<div id="observablehq-viewof-project-f4884514"></div>
+<div id="observablehq-chart-f4884514"></div>
+
+<p><a href="https://observablehq.com/@ezequielscott/team-dynamics">See original @ Observablehq </a></p>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@ezequielscott/team-dynamics.js?v=3";
+
+new Runtime().module(define, name => {
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-f4884514"));
+  if (name === "viewof project") return new Inspector(document.querySelector("#observablehq-viewof-project-f4884514"));
+  return ["data","graph","x","xAxis","y","color","total_groups","numbers"].includes(name);
+});
+
+</script>
