@@ -22,11 +22,11 @@ blog = "blog/:slug/"
     weight = -90
     identifier = "cv"
     url = "/files/SCOTT_CV2021.pdf"
-#[[menu.main]]
-#    name = "blog"
-#    weight = -100
-#    identifier = "blog"
-#    url = "/blog/"
+[[menu.main]]
+    name = "blog"
+    weight = -100
+    identifier = "blog"
+    url = "/blog/"
 [[menu.main]]
     name = "publications"
     weight = -110
@@ -48,12 +48,11 @@ publication_year = "year"
 
 [params]
 author = "Ezequiel Scott"
-
 publication_type = "Journal"
 # gravatar = "" # do not use in the same time as Avatar
 # avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
 cachebuster = true
-dateform = "2006-01-01"
+dateform = "01.01.2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Don't panic"
 email = "ezequiel.scott@ut.ee"
