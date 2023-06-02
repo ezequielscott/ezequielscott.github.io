@@ -4,8 +4,10 @@ draft = false
 title = "Home"
 +++
 
-# Hi! :)
+# Ezequiel Scott
 
-My name is Ezequiel Scott, and I am currently working as a Lecturer of Software Engineering at the [Institute of Computer Science](https://www.cs.ut.ee/et) of [University of Tartu](https://www.ut.ee/en), Estonia. My research interests are mainly related to agile software development, software process improvement, software engineering education, and the application of AI/ML to support software development.
+I am a Data Analytics Engineer, Researcher, and Lecturer with over ten years of experience collecting, organising, and analysing data from different sources. I specialise in Machine Learning (ML), Artificial Intelligence (AI), and agile software development.
 
-Contact: <ezequiel.scott@ut.ee>
+My interests are mainly related to the application of AI/ML to solve relevant problems. I am also interested in software engineering, agile software development, and software process improvement.
+
+Contact: <ezequielscott@gmail.com>
