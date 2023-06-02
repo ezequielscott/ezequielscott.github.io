@@ -1,10 +1,10 @@
 +++
-date = "2015-08-22T06:42:21-07:00"
+date = "2023-06-02T06:42:21-07:00"
 draft = false
 title = "Home"
 +++
 
-# Ezequiel Scott
+# Hi :)
 
 I am a Data Analytics Engineer, Researcher, and Lecturer with over ten years of experience collecting, organising, and analysing data from different sources. I specialise in Machine Learning (ML), Artificial Intelligence (AI), and agile software development.
 
