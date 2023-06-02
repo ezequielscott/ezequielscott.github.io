@@ -1,9 +1,7 @@
 hugoBasicExample
 ==========
 
-This is an example site for [Hugo](http://gohugo.io/).
-
-It is intended to be a demo site for the various [Hugo themes][].
+This is a personal site made with [Hugo](http://gohugo.io/).
 
 # Using
 
@@ -11,16 +9,7 @@ It is intended to be a demo site for the various [Hugo themes][].
 2. Then, clone this repository;
 3. Run the server locally <code>hugo server -t cocoa</code>
 
-In other words:
-
-<pre><code>git clone https://github.com/ezequielscott/ezequielscott.github.io
-cd ezequielscott.github.io
-hugo server -t cocoa
-</code></pre>
-
 Enjoy!
-
-[Hugo themes]: https://github.com/spf13/hugoThemes
 
 # Notes: 
 * Files are stored in static/files
