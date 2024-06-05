@@ -4,7 +4,7 @@ draft = false
 title = "teaching"
 +++
 
-## Teaching
+## Courses
 
 - Data Analytics, CoderHouse (Remote)
 - Agile Software Development (MTAT.03.295), MSc, University of Tartu
