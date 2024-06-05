@@ -12,5 +12,5 @@ title = "certifications"
 |Oct 2022|**Google Data Analytics Specialization**|Google|<img src="/static/img/CourseraGoogleDataAnalytics.png" width="200"/>|
 |Oct 2022|**Working with BigQuery**|Coursera||
 |Dec 2022|**ETL and Data Pipelines with Shell, Airflow**|IBM|<img src="/static/img/CourseraIBM.png" width="200"/>| 
-|Feb 2018|**Machine Learning: Regression**|University Washington||
-|Feb 2017|**ML Foundations: A Case Study Approach**|University of Washington|| 
+|Feb 2018|**Machine Learning: Regression**|University Washington|<img src="/static/img/CourseraML2.png" width="200"/>|
+|Feb 2017|**ML Foundations: A Case Study Approach**|University of Washington|<img src="/static/img/CourseraML1.png" width="200"/>| 
