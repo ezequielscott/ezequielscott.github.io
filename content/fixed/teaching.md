@@ -4,20 +4,17 @@ draft = false
 title = "teaching"
 +++
 
-I currently teach:
+## Teaching
 
+- Data Analytics, CoderHouse (Remote)
 - Agile Software Development (MTAT.03.295), MSc, University of Tartu
 - Software Engineering (LTAT.05.003), BSc, University of Tartu
 - Software Analytics (LTAT.05.008), MSc, University of Tartu
 - Software Testing (MTAT.03.159), BSc, University of Tartu
-
-In the past, I taught:
-
 - Software Engineering, Systems Engineering, UNICEN
 - Software Engineering Workshop, Systems Engineering, UNICEN
 - Object Oriented Programming, Systems Engineering, UNICEN
 - Documentation and Validation Techniques, TUPAR, UNICEN
-
 
 ## Supervised Students
 
