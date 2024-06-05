@@ -4,7 +4,7 @@ draft = false
 title = "certifications"
 +++
 
-|  |  | | |
+| Date | Title | Issuer | Badge |
 |--|--|--|--|
 |May 2024|**Fundamentals of the Databricks Lakehouse Platform Accreditation**| Databricks|![image](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105077721)|
 |Feb 2024|**DBT Advanced Materializations**|DBT Labs|| 
