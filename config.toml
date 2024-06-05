@@ -67,3 +67,6 @@ linkedin = "//linkedin.com/in/ezequielscott"
 scholar = "//scholar.google.com.ar/citations?user=jYuH43AAAAAJ"
 researchgate = "//researchgate.net/profile/Ezequiel_Scott"
 extracssfiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
