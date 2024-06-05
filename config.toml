@@ -18,10 +18,10 @@ fixed = ":title/"
 blog = "blog/:slug/"
 
  [[menu.main]]
-    name = "CV"
+    name = "certifications"
     weight = -90
-    identifier = "cv"
-    url = "/files/SCOTT_CV2021.pdf"
+    identifier = "certifications"
+    url = "/certifications/"
 [[menu.main]]
     name = "blog"
     weight = -100
