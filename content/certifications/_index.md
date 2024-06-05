@@ -1,3 +1,9 @@
++++
+date = "2024-06-05T06:42:21-07:00"
+draft = false
+title = "certifications"
++++
+
 |  |  | | |
 |--|--|--|--|
 |May 2024|**Fundamentals of the Databricks Lakehouse Platform Accreditation**| Databricks|![image](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105077721)|
