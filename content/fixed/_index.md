@@ -6,8 +6,8 @@ title = "Home"
 
 # Hi :)
 
-I am a Data Analytics Engineer, Researcher, and Lecturer with over ten years of experience collecting, organising, and analysing data from different sources. I specialise in Machine Learning (ML), Artificial Intelligence (AI), and agile software development.
+I am a Data Analytics Engineer, Researcher, and Lecturer with over ten years of experience collecting, organising, and analysing data from different sources. 
 
-My interests are mainly related to the application of AI/ML to solve relevant problems. I am also interested in software engineering, agile software development, and software process improvement.
+My expertise lies in optimizing data pipelines and infrastructure. I focus on identifying inefficiencies in internal processes, automating manual tasks, and enhancing data delivery through strategic infrastructure design. Leveraging data technologies, I have built robust data ingestion pipelines to efficiently extract, transform, and load data from diverse sources. This involves meticulous data modeling, ensuring scalability, and implementing quality control measures to deliver clean, accessible data for downstream analytics and decision-making.
 
 Contact: <ezequielscott@gmail.com>
