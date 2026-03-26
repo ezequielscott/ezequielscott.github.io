@@ -1,16 +1,18 @@
 +++
-date = "2023-06-02T06:42:21-07:00"
+date = "2026-03-26T06:42:21-07:00"
 draft = false
 title = "Home"
 +++
 
 # Hi :)
 
-I am a Data Analytics Engineer, Researcher, and Lecturer with over ten years of experience collecting, organising, and analysing data from different sources. 
+I’m currently a Data Engineer, but my journey started in research. I’ve always been drawn to understanding how things work beneath the surface—whether that meant analyzing biological datasets, experimenting with machine learning models, or studying the complexities of supply chains. Over time, that curiosity naturally evolved into a passion for building the systems that make meaningful analysis possible.
 
-My expertise lies in optimizing data pipelines and infrastructure. I focus on identifying inefficiencies in internal processes, automating manual tasks, and enhancing data delivery through strategic infrastructure design. Leveraging data technologies, I have built robust data ingestion pipelines to efficiently extract, transform, and load data from diverse sources. This involves meticulous data modeling, ensuring scalability, and implementing quality control measures to deliver clean, accessible data for downstream analytics and decision-making.
+Today, I design and maintain the data pipelines and infrastructure that organizations rely on to make better decisions. I enjoy the practical, engineering side of the work: optimizing processes, automating what used to be manual and error‑prone, and ensuring that data is reliable, accessible, and ready for use in analytics, AI, and GenAI applications. I’ve built solutions across multiple domains, from healthcare and finance to supply chain and biological data—each field shaping the way I think about data quality, regulation, and scalability.
 
-My research interests focus on the application of data pipelines to address relevant problems, particularly those involving AI and ML. I am also interested in software engineering, agile software development, and software process improvement.
+Even though I now work in industry, the researcher in me never really went away. I still care deeply about the scientific process: asking questions, experimenting, and finding elegant solutions to complex problems. My experience across different sectors has taught me how data engineering can support scientific discovery, and I’m motivated by roles that sit at that intersection—where rigorous research meets robust engineering.
+
+I’m passionate about using data, automation, and thoughtful design to make systems more intelligent, more resilient, and more useful. And I’m always open to opportunities that let me blend my engineering expertise with my research mindset.
 
 Contact: <ezequielscott@gmail.com>
 
