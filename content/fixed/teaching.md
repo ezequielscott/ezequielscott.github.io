@@ -16,7 +16,7 @@ title = "teaching"
 - Object Oriented Programming, Systems Engineering, UNICEN
 - Documentation and Validation Techniques, TUPAR, UNICEN
 
-## Interesting project in which I supervised students:
+## Interesting projects in which I supervised students:
 
 - Rain Hallikas, Master’s Degree, 2024. **“Multivocal Literature Review on Data Quality Challenges in Data Pipelines”**. University of Tartu, Faculty of Science and Technology, Institute of Computer Science. Supervisors: Mario Ezequiel Scott; Dietmar Alfred Paul Kurt Pfahl.
 - Sander Jenk, Master’s Degree, 2022. **“A Multi-objective Optimizer to Retrieve Issue Reports Based on Developer Experience and Business Value”**. University of Tartu, Faculty of Science and Technology, Institute of Computer Science. Supervisor: Mario Ezequiel Scott.
