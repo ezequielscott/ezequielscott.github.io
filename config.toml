@@ -12,6 +12,7 @@ pygmentsuseclasses = true
 disqusshortname = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
 disablePathToLower = true
+paginate = 10
 
 [permalinks]
 fixed = ":title/"
@@ -22,11 +23,11 @@ blog = "blog/:slug/"
     weight = -90
     identifier = "certifications"
     url = "/certifications/"
-[[menu.main]]
-    name = "blog"
-    weight = -100
-    identifier = "blog"
-    url = "/blog/"
+#[[menu.main]]
+#    name = "blog"
+#    weight = -100
+#    identifier = "blog"
+#    url = "/blog/"
 [[menu.main]]
     name = "publications"
     weight = -110

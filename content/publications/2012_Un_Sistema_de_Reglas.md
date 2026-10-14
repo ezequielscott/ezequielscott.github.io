@@ -1,5 +1,5 @@
 +++
-title = "Localizacion de Fallas dirigida por Taxonomia en Aplicaciones Orientadas a Servicios"
+title = "Localizacion de Fallas dirigida por Taxonomia en Aplicaciones Orientadas a Servicios"
 year = "2012"
 date = "2012-01-01"
 authors = ["Ezequiel Scott"]

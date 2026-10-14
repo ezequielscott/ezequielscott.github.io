@@ -1,8 +1,7 @@
 +++
 date = "2021-09-24T15:29:00+03:00"
-draft = false
+draft = true
 title = "Team Stability"
-
 +++
 
 # Team stability in open-source projects

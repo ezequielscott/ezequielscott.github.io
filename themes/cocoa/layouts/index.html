@@ -10,11 +10,10 @@
             </div>
             {{ end }}
 
-            <div class="page-heading">{{ "Latest posts" }}</div>
 
-            {{ if isset .Site.Params "paginate" }}
+            {{ if .Site.Config.Services.RSS.Limit }}
                 <div style="padding-bottom:20px;">
-                    {{ $pag := .Paginate (where site.RegularPages "Type" "in" "blog") .Site.Params.Paginate }}
+                    {{ $pag := .Paginate (where site.RegularPages "Type" "in" "blog") }}
                     <ul>
                     {{ range $pag.Pages }}
                         {{ partial "li.html" . }}
@@ -22,17 +21,17 @@
                     </ul>
                 </div>
 
-                {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+                {{ if or ($pag.HasPrev) ($pag.HasNext) }}
                 <div>
                     <ul>
-                        {{ if .Paginator.HasPrev }}
+                        {{ if $pag.HasPrev }}
                             <li style="float:left;">
-                                <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ "Newer" }}</a>
+                                <a href="{{ $pag.Prev.URL }}">&larr; {{ "Newer" }}</a>
                             </li>
                         {{ end }}
-                        {{ if .Paginator.HasNext }}
+                        {{ if $pag.HasNext }}
                             <li style="float:right;">
-                                <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}/">{{ "Older" }} &rarr;</a>
+                                <a href="{{ $pag.Next.URL }}">{{ "Older" }} &rarr;</a>
                             </li>
                         {{ end }}
                     </ul>
@@ -40,17 +39,17 @@
                 {{ end }}
             {{ else }}
                 {{ $allPages := where site.RegularPages "Type" "in" "blog" }}
-                {{ $totalpostscount := len $allPages }}
-                {{ $latestpostscount := .Site.Params.latestpostscount | default $totalpostscount }}
-                {{ $paginator := .Paginate $allPages $latestpostscount }}
-                {{ $toShow := mul $paginator.PageNumber $paginator.PageSize }}
-                {{ range $index, $el := (first $toShow $allPages) }}
-                    <ul>{{ partial "blogli.html" . }}</ul>
-                {{ end }}
-                {{ if and (gt $paginator.TotalPages 1) ($paginator.HasNext) }}
-                    <div style="padding-top:20px">
-                        <a class="nextpage" href="{{ $paginator.Next.URL }}#newpage">{{ "See more" }}</a>
-                    </div>
+                {{ if gt (len $allPages) 0 }}
+                    <div class="page-heading">{{ "Latest posts" }}</div>
+                    {{ $paginator := .Paginate $allPages }}
+                    {{ range $paginator.Pages }}
+                        <ul>{{ partial "blogli.html" . }}</ul>
+                    {{ end }}
+                    {{ if and (gt $paginator.TotalPages 1) ($paginator.HasNext) }}
+                        <div style="padding-top:20px">
+                            <a class="nextpage" href="{{ $paginator.Next.URL }}#newpage">{{ "See more" }}</a>
+                        </div>
+                    {{ end }}
                 {{ end }}
             {{ end }}
 
